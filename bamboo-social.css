@@ -1,0 +1,88 @@
+/************************************************************************************************************/
+
+a.bamboo-social-link {
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	margin-left: 10px;
+	text-align: center;
+	line-height: 30px;
+	color: #ffffff;
+	font-size: 14px;
+}
+
+a.bamboo-social-link:first-child {
+	margin-left: 0;
+}
+
+a.bamboo-social-link.twitter {
+	background: #4089ba;
+	color: #ffffff;
+}
+
+a.bamboo-social-link.twitter:hover {
+	background: #61abdc;
+	color: #ffffff;
+}
+
+a.bamboo-social-link.facebook {
+	background: #1c397b;
+	color: #ffffff;
+}
+
+a.bamboo-social-link.facebook:hover {
+	background: #3e5b9d;
+	color: #ffffff;
+}
+
+a.bamboo-social-link.instagram {
+	background: #c93775;
+	color: #ffffff;
+}
+
+a.bamboo-social-link.instagram:hover {
+	background: #eb5997;
+	color: #ffffff;
+}
+
+a.bamboo-social-link.google {
+	background: #b92b1d;
+	color: #ffffff;
+}
+
+a.bamboo-social-link.google:hover {
+	background: #db4d3f;
+	color: #ffffff;
+}
+
+a.bamboo-social-link.linkedin {
+	background: #035993;
+	color: #ffffff;
+}
+
+a.bamboo-social-link.linkedin:hover {
+	background: #157bb5;
+	color: #ffffff;
+}
+
+a.bamboo-social-link.pinterest {
+	background: #a7010b;
+	color: #ffffff;
+}
+
+a.bamboo-social-link.pinterest:hover {
+	background: #c9232d;
+	color: #ffffff;
+}
+
+a.bamboo-social-link.tumblr {
+	background: #0b2640;
+	color: #ffffff;
+}
+
+a.bamboo-social-link.tumblr:hover {
+	background: #2d4861;
+	color: #ffffff;
+}
+
+/************************************************************************************************************/
